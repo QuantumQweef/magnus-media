@@ -1,1 +1,1 @@
-# magnus-media
+# Magnus Media
